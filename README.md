@@ -42,16 +42,19 @@ I’d love to connect with like-minded people and collaborate!
 
 ## 🛠️ My Toolbox  
 🖥️ **Languages**:  
-- Java ☕, C# ⚙️, JavaScript 🌟, SQL (MySQL, Oracle SQL) 🗄️, HTML & CSS 🌐  
+- Java ☕, C# ⚙️, Python 🐍, JavaScript 🌟, SQL (MySQL, Oracle SQL) 🗄️, HTML & CSS 🌐
 
 🛠️ **Frameworks**:  
-- React ⚛️, Node.js 🌐, ASP.NET 💻  
+- React ⚛️, Node.js 🌐, ASP.NET 💻, Microsoft Azure ☁️ 
 
 📂 **Databases**:  
 - MongoDB 🍃, Firebase 🔥, MySQL 📀, Oracle SQL 🗄️  
 
 📌 **Development Tools**:  
-- Git 🧰, GitHub 🐙, Visual Studio 🎨  
+- Git 🧰, GitHub 🐙, Visual Studio 🎨, Visual Studio Code ♾️
+
+🎬 **Design Tools**:
+- Canva🎨, Figma⚜️
 
 ---
 
@@ -68,7 +71,6 @@ I’d love to connect with like-minded people and collaborate!
 ---
 
 ## 🎉 Fun Facts & Highlights  
-- 🌱 Currently sharpening my **React** and **Node.js** skills.  
 - 🏗️ Building awesome projects to help businesses grow digitally.  
 - 🌍 Always eager to explore new **tech trends** and implement them creatively!  
 
