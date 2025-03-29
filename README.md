@@ -30,7 +30,7 @@ Here’s a glimpse of some of my awesome work:
 
 ---
 
-## 🌈 Connect with Me  
+## 🔗 Connect with Me  
 I’d love to connect with like-minded people and collaborate!  
 
 📖 **Facebook**: [Phalanndwa Munyai](https://www.facebook.com/profile.php?id=100076553401163)  
