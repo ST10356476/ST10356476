@@ -23,7 +23,7 @@ Here’s a glimpse of some of my awesome work:
 - 📚 An **ASP.NET** web application to manage student library details effectively.  
 
 🌟 **[Khumal Craft Emporium](https://github.com/ST10356476/Khumalo-Craft-Emporium.git)**  
-- 📝 A **Java**-powered task manager implementing **Kanban methodology** for smooth workflows.  
+- 📝 Khumalo Craft Emporium is a web-based application designed to showcase and sell hand-crafted items. 
 
 🌟 **Web Projects**  
 - 🌐 Dynamic websites powered by **HTML**, **CSS**, **React**, **Firebase**, and backend support using **Node.js**.
