@@ -22,7 +22,7 @@ Here’s a glimpse of some of my awesome work:
 🌟 **[Campus Library](https://github.com/ST10356476/Campus-Library)**  
 - 📚 An **ASP.NET** web application to manage student library details effectively.  
 
-🌟 **[Kanban Board](https://github.com/ST10356476/Kanban_Board)**  
+🌟 **[Khumal Craft Emporium](https://github.com/ST10356476/Khumalo-Craft-Emporium.git)**  
 - 📝 A **Java**-powered task manager implementing **Kanban methodology** for smooth workflows.  
 
 🌟 **Web Projects**  
